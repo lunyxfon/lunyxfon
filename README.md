@@ -1,4 +1,4 @@
-# 👋 Привет! Я [Ваше Имя]
+# 👋 Привет! Меня зовут Иван 
 
 **Frontend-разработчик** (уровень Junior/Middle) с фокусом на создание чистых, производительных и доступных интерфейсов. Постоянно учусь и улучшаю свой код.
 
@@ -15,14 +15,14 @@
 | **Сборка** | Webpack, Vite, Parcel |
 | **Тесты** | Jest, React Testing Library, Cypress |
 | **API** | REST, GraphQL (Apollo), WebSockets |
-| **Инструменты** | Git, Figma, Docker (базово), ESLint, Prettier |
+| **Инструменты** | Git, Figma |
 
 ---
 
 ## 📈 Моя статистика на GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ВАШ_НИК]&show_icons=true&theme=radical" alt="Статистика" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lunyxfon&show_icons=true&theme=radical" alt="Статистика" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВАШ_НИК]&layout=compact&theme=radical" alt="Языки" height="160"/>
 </div>
 
