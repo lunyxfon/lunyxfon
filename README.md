@@ -22,8 +22,8 @@
 ## 📈 Моя статистика на GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lunyxfon&show_icons=true&theme=radical" alt="Статистика" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВАШ_НИК]&layout=compact&theme=radical" alt="Языки" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[lunyxfon]&show_icons=true&theme=radical" alt="Статистика" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[lunyxfon]&layout=compact&theme=radical" alt="Языки" height="160"/>
 </div>
 
 ---
